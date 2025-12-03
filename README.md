@@ -24,7 +24,7 @@
 - *Tools:* Git, GitHub, VS Code, MS Office  
 - *Soft Skills:* Problem Solving, Team Collaboration, Time Management
 
-
+---
 
 ## 📌 Featured Projects
 - *AI Legal Advisor* – Helps users with legal insights using NLP  
