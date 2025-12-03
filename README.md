@@ -8,6 +8,8 @@ Computer Science & Engineering | Full Stack Java Developer | Software Engineer |
 
 💡 Interested in: AI/ML, Full Stack Engineering, Backend Development, and Problem-Solving.
 
+📫 Reach me at: [Linkedin](https://www.linkedin.com/in/shahid-khan-84b47b279)| [Email](mailto:shahidhhkhan58@gmail.com)
+
 
 ## 📌 Featured Projects
 - *AI Legal Advisor* – Helps users with legal insights using NLP  
