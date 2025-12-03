@@ -1,6 +1,6 @@
 # Hi, I'm Shahid 👋
 
-#Computer Science & Engineer | Full Stack Developer | Software Engineer | AI/ML Enthusiast
+# Computer Science & Engineer | Full Stack Developer | Software Engineer | AI/ML Enthusiast
 
  🚀 I'm currently working on: AI based web applications and full stack development Projects.
  💻 I'm learning:Java Full Stack Development, Spring Boot, REST APIs, and frontend technologies like HTML, CSS, and JavaScript.
