@@ -26,8 +26,9 @@
 
 ---
 
-## 📌 Featured Projects
-- *AI Legal Advisor* – Helps users with legal insights using NLP  
+## 📂 Featured Projects
+- [*AI Legal Advisor*](https://github.com/Shahidhhkhan/AI-Legal-advisor)
+  Helps users with legal insights using NLP
 - *Fake Currency Detection (CNN Model)*  
 - *Hotel Management System (Full Stack)*  
 
