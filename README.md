@@ -1,20 +1,9 @@
 # Hi, I'm Shahid 👋
 
-I’m a Computer Science Engineering student passionate about *AI, Machine Learning, and Full-Stack Development*.  
-I love building real-world projects that solve practical problems and learning new technologies every day.
+Computer Science & Engineer | Full Stack Developer | Software Engineer | AI/ML Enthusiast
 
-### 🚀 What I'm working on:
-- AI-powered applications  
-- Machine Learning & Data Analysis  
-- Full-stack projects using React, Node.js, JS  
-
-### 🌱 What I'm learning:
-- Advanced Python  
-- Machine Learning (scikit-learn, Pandas)  
-- Backend Development (Node.js, Express)  
-
----
-
+### 🚀 I'm currently working on: AI based web applications and full stack development Projects.
+### 💻 I'm learning:Java Full Stack Development, Spring Boot, REST APIs, and frontend technologies like HTML, CSS, and JavaScript.
 ## 🔧 Skills & Tools
 - *Languages:* Python, C, JavaScript  
 - *Web:* HTML, CSS, React, Node.js  
