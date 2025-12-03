@@ -27,11 +27,12 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [*AI-Legal-Advisor*](https://github.com/Shahidhhkhan/AI-Legal-advisor)  
+"🔹"[AI-Legal-Advisor]  (https://github.com/Shahidhhkhan/AI-Legal-advisor)  
 An AI-powered assistant that provides legal insights using NLP and machine learning.
 
-🔹Fake Currency Detection (CNN Model)*  
-🔹Hotel Management System (Full Stack)*  
+"🔹"Fake Currency Detection (CNN Model)*  
+
+"🔹"Hotel Management System (Full Stack)*  
 
 ---
 
