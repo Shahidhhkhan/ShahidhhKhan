@@ -3,6 +3,7 @@
 *Computer Science & Engineering | Full Stack Developer | AI/ML Enthusiast*
 
 ---
+
 🚀 I'm currently working on: AI-powered web applications and Java-based full-stack development projects.
 
 💻 I'm learning: Java Full Stack Development, Spring Boot, REST APIs, and frontend technologies (HTML, CSS, JavaScript).
