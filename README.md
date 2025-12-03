@@ -1,16 +1,13 @@
 # Hi, I'm Shahid 👋
 
- Computer Science & Engineer | Full Stack Developer | Software Engineer | AI/ML Enthusiast
+Computer Science & Engineering | Full Stack Java Developer | Software Engineer | AI/ML Enthusiast
 
- 🚀 I'm currently working on: AI based web applications and full stack development Projects.
- 💻 I'm learning:Java Full Stack Development, Spring Boot, REST APIs, and frontend technologies like HTML, CSS, and JavaScript.
-## 🔧 Skills & Tools
-- *Languages:* Python, C, JavaScript  
-- *Web:* HTML, CSS, React, Node.js  
-- *AI/ML:* NumPy, Pandas, Scikit-learn  
-- *Tools:* Git, GitHub, VS Code, MS Office  
+🚀 I'm currently working on: AI-powered web applications and Java-based full-stack development projects.
 
----
+💻 I'm learning: Java Full Stack Development, Spring Boot, REST APIs, and frontend technologies (HTML, CSS, JavaScript).
+
+💡 Interested in: AI/ML, Full Stack Engineering, Backend Development, and Problem-Solving.
+
 
 ## 📌 Featured Projects
 - *AI Legal Advisor* – Helps users with legal insights using NLP  
