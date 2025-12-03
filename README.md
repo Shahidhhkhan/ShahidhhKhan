@@ -10,7 +10,7 @@
 
 💡 Interested in: AI/ML, Full Stack Engineering, Backend Development, and Problem-Solving.
 
-📫 Reach me at: [Linkedin](https://www.linkedin.com/in/shahid-khan-84b47b279)| [Email](mailto:shahidhhkhan58@gmail.com)
+📫 Reach me at: [Linkedin](https://www.linkedin.com/in/shahid-khan-84b47b279) | [Email](mailto:shahidhhkhan58@gmail.com)
 
 ---
 
