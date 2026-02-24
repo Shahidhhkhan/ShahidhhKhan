@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills & Tools
 
-- *Languages:* C, C++, Python, Java (Basics)
+- *Languages:* C++ , Java 
 - *Frontend:* HTML, CSS, JavaScript  
 - *Backend & Frameworks:* Java Full Stack Development, Spring Boot, REST APIs  
 - *Databases:* MySQL  
