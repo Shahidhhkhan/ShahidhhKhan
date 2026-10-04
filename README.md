@@ -1,4 +1,4 @@
-# Hi, I'm Shahid 👋
+# Hi, I'm Shahid KhaN 👋
 
 *Computer Science & Engineering | Full Stack Developer | AI/ML Enthusiast*
 
